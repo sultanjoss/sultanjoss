@@ -1,5 +1,15 @@
 - 👋 Hi, I’m @sultanjoss
 
+  ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+</a>
+I'm a Quality Engineer with a Bachelor's degree in Sharia Economics, and I've recently completed the Quality Engineering Training Program at Alterra Academy. Throughout my training, I acquired in-depth expertise in both manual and automation testing. I've successfully executed projects involving automated tests using Java and have achieved a success rate of over 90% in manual API and web testing. I possess strong leadership abilities, excel in teamwork, and am an effective public speaker. I am now actively seeking opportunities to enhance my professional competence while making contributions as quality engineer.
+
+- I am interested in analysis and creating manual and automated tests
+- I am looking forward to collaborating on open-source projects.
+- Feel free to ask me anything, and I'll be happy to help, as long as it's within my knowledge
+- Outside of tech, I love watching movies, editing photos videos, and exploring nature outdoors.
+</a>
+
 
 
 ## 🤝 Connect with me
